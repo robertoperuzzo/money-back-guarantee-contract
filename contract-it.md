@@ -29,12 +29,13 @@ Verrà emessa una *Pro Forma* settimanale alla accettazione di ogni iterazione d
 
 In attesa di un Vs. gradito riscontro porgiamo i più distinti e cordiali saluti.
 
----
-
 Roberto Peruzzo
 
-
 Data e Firma per accettazione
+---
 
-_____________________________
+
+---
+
+
 
