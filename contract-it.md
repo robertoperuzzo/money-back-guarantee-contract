@@ -29,11 +29,10 @@ In attesa di un Vs. gradito riscontro porgiamo i più distinti e cordiali saluti
 
 Roberto Peruzzo
 
+---
+Data e Firma per accettazione
 
-> Data e Firma per accettazione
->
->
-
+---
 
 
 
