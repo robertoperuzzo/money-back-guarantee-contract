@@ -14,20 +14,27 @@ All'approvazione del presente contratto, avvieremo le attività di produzione ch
 
 Ad ogni iterazione (quindi ogni settimana) il cliente:
 
-* otterrà, in caso di accettazione, una versione del software funzionante ed utilizzabile
-* potrà decidere di cambiare le priorità delle funzionalità previste nella/e successiva/e iterazione/i
-* potrà decidere di aggiungere/togliere delle funzionalità inizialmente previste; ad una diminuzione delle funzionalità corrisponde una diminuzione del numero di iterazioni (e quindi dell'investimento complessivo), ad un aumento delle funzionalità corrisponde un aumento del numero di iterazioni (e quindi dell'investimento complessivo). Ogni funzionalità aggiunta verrà stimata insieme al cliente per definirne il “peso” (quindi il costo)
-* potrà decidere se interrompere il progetto, senza il bisogno di realizzare ulteriori funzionalità inizialmente previste, perché non più necessarie; in questo caso al cliente verrà addebitato il costo delle sole iterazioni realizzate
+* **otterrà**, in caso di accettazione, **una versione del software** funzionante ed utilizzabile
+* potrà decidere di **cambiare le priorità** delle funzionalità previste nella/e successiva/e iterazione/i
+* potrà decidere di **aggiungere/togliere delle funzionalità** inizialmente previste; ad una diminuzione delle funzionalità corrisponde una diminuzione del numero di iterazioni (e quindi dell'investimento complessivo), ad un aumento delle funzionalità corrisponde un aumento del numero di iterazioni (e quindi dell'investimento complessivo). Ogni funzionalità aggiunta verrà stimata insieme al cliente per definirne il “peso” (quindi il costo)
+* potrà decidere **se interrompere il progetto**, senza il bisogno di realizzare ulteriori funzionalità inizialmente previste, perché non più necessarie; in questo caso al cliente verrà addebitato il costo delle sole iterazioni realizzate
 
 ## Budget
 
-Il prezzo per iterazione (settimanale) è di [Inserire Prezzo]€.
+Il **prezzo** per iterazione (settimanale) è di **€ [Inserire Prezzo]**.
 
-I compensi di cui sopra sono al netto dell’IVA.
-Sono escluse le spese di trasferta.
+I compensi di cui sopra sono al netto dell’IVA e della rivalsa INPS. Sono escluse eventuali spese di trasferta.
 
-Verrà emessa fattura settimanale alla accettazione di ogni iterazione da saldare tramite bb a vista fattura.
+Verrà emessa una *Pro Forma* settimanale alla accettazione di ogni iterazione da saldare a vista tramite bonifico bancario. La *Fattura* sarà emessa al ricevimento del bonifico, ai sensi degli *art. 6 e 21 D.P.R. 26.10.72 N.633 e dell'art. 2 D.L. 06.07.74 N.260*.
 
 In attesa di un Vs. gradito riscontro porgiamo i più distinti e cordiali saluti.
 
-e-xtrategy srl.
+---
+
+Roberto Peruzzo
+
+
+Data e Firma per accettazione
+
+_____________________________
+
