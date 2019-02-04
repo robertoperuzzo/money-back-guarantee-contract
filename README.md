@@ -1,5 +1,3 @@
-![Logo](http://www.extrategy.net/themes/custom/extrategy/img/logo-extrategy.svg)
-
 # money back guarantee contract
 Our basic money back guarantee contract
 
